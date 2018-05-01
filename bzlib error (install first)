@@ -1,0 +1,1 @@
+sudo apt-get install libbz2-1.0 libbz2-dev libbz2-ocaml libbz2-ocaml-dev libboost-dev
